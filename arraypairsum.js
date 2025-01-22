@@ -11,4 +11,6 @@ var arrayPairSum = function (nums) {
     for (let i = 0; i < n; i += 2)
        k += nums[i]
     return k
+    console.log(k);
+    
 };
